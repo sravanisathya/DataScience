@@ -1,0 +1,17 @@
+PYTHON:
+  Python is an object oriented,high level language,dynamic and multipurpose programming language.
+python syntax and dynamic typing with its interpreted nature,make it an ideal language for scripting and rapid application in
+many areas.we don't need to use data types to declare variable because it is dynamically typed.
+
+FEATURES OF PYTHON:
+1)Simple language
+2)Easy to learn
+3)Free and open source
+4)High level language
+5)portable language
+6)Extensible,embeddable language.
+
+ADVANTAGES OF PYTHON:
+Improved programmer's productiviy
+Extensive support libraries
+Integrated features.
